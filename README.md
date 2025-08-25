@@ -2,13 +2,13 @@
 
 <p align="center">AI video real-time translation utilizes large language models to conduct real-time translations on video subtitles, supporting platforms like YouTube and Bilibili.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/vt/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/35" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![User Interface Preview](docs/视频实时翻译en.png)
 
-Open-source version of the [AI Video Real-time Translation](https://302.ai/en/tools/vt/) from [302.AI](https://302.ai/en/).
+Open-source version of the [AI Video Real-time Translation](https://302.ai/product/detail/35) from [302.AI](https://302.ai/en/).
 You can directly log in to 302.AI for a zero-code, zero-configuration online experience.
 Alternatively, customize this project to suit your needs, integrate 302.AI's API KEY, and deploy it yourself.
 
